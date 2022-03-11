@@ -1,0 +1,2 @@
+# EmYiQingy
+Gososerial库的一个Demo漏扫，实现了Shiro一把梭扫描利用，Fastjson的Dnslog扫描和反连扫描
